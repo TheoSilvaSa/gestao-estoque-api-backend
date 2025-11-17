@@ -4,7 +4,7 @@ Este repositório contém o código-fonte da API backend para o Sistema de Gest�
 
 ## Objetivo do Projeto
 
-Desenvolver um sistema web para controle de estoque, registro de vendas (caixa) e gestão de usuários, com base em uma arquitetura cliente-servidor moderna. [cite_start]A API implementa serviços REST, validações, rotas protegidas por JWT e papéis de usuário (roles)[cite: 3].
+Desenvolver um sistema web para controle de estoque, registro de vendas (caixa) e gestão de usuários, com base em uma arquitetura cliente-servidor moderna. [cite_start]A API implementa serviços REST, validações, rotas protegidas por JWT e papéis de usuário (roles).
 
 ## Tecnologias Utilizadas
 
